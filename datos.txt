@@ -1,0 +1,2 @@
+Práctica de Git y GitHub.
+Repositorio creado para aprender el proceso de sincronización entre un repositorio local y un repositorio remoto.
